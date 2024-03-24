@@ -16,6 +16,7 @@ body{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    font:monospace;
   }
   .topnav a:hover {
     background-color: #ddd;
@@ -25,15 +26,5 @@ body{
     background-color: burlywood;
     color: white;
   }    
- .h1 {
-    text-decoration-color: gainsboro;
-    text-align: center;
-    padding: 48px 50px;
- }
- .header {
-  background: url('./images/coding-ball.jpg');
-  height: 80vh;
-  background-size:cover;
-  background-position: center;
-  background-attachment: fixed; 
-}
+
+
